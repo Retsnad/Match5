@@ -330,7 +330,7 @@ class ViewController: UIViewController {
         layoutCards()
         
         //set the countown label
-        countdown = 40
+        countdown = 60
         countdownLabel.text = String(countdown)
         
         //create and schedule a timer
